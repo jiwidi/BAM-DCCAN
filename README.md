@@ -1,0 +1,1 @@
+Credits for DCGAN implementation to https://github.com/carpedm20/DCGAN-tensorflow
